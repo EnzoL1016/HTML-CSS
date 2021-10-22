@@ -1,0 +1,65 @@
+#titulo {
+  color: teal;
+}
+.rojo {
+  color: red;
+}
+.destacado {
+  color: goldenrod;
+}
+#subtitulo {
+  color: rgb(38, 66, 149);
+}
+p a {
+  text-decoration: underline;
+  color: red;
+}
+em {
+  font-weight: 400;
+  color: rgb(38, 66, 149);
+}
+
+table {
+  width: 30%;
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+th,
+td {
+  position: sticky;
+  border: 1.8px solid #000;
+  border-style: inset;
+  width: 25%;
+  padding: 0.3em;
+}
+.especial {
+  color: gold;
+}
+tbody tr td em {
+  color: green;
+}
+tbody tr td {
+  color: green;
+}
+tfoot tr th {
+  color: red;
+}
+span.especial {
+  color: rgb(156, 14, 156);
+}
+td strong {
+  color: gold;
+}
+tbody tr th {
+  color: red;
+}
+#adicional {
+  color: rgb(130, 149, 84);
+}
+#especial {
+  color: rgb(156, 14, 156);
+}
+div p a {
+  text-decoration: underline;
+  color: rgb(2, 97, 2);
+}

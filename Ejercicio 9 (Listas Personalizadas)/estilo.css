@@ -1,0 +1,15 @@
+li {
+  line-height: 1.5;
+  list-style-image: url(Sin\ título.png);
+}
+
+ul {
+  background-color: transparent;
+  -webkit-text-stroke: 0.8px black;
+  color: transparent;
+}
+
+a {
+  color: aqua;
+  -webkit-text-stroke: 0.4px cornflowerblue;
+}

@@ -1,0 +1,16 @@
+* {
+  background-color: mistyrose;
+}
+.parrafo {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: rebeccapurple;
+  text-align: left;
+}
+.titulo {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+.subtitulo {
+  font-family: cursive;
+  text-align: center;
+}

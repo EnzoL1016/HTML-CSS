@@ -1,0 +1,33 @@
+.contenedor {
+  display: flex;
+  background-color: transparent;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-flow: column wrap;
+  justify-content: space-between;
+  flex: stretch;
+  align-items: center;
+}
+
+.subcontenedorr {
+  margin-top: 100px;
+  display: inline-block;
+  background-color: bisque;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-flow: column wrap;
+  justify-content: left;
+}
+
+.caja {
+  background: transparent;
+  margin: 5px;
+  margin-top: -4px;
+  align-items: left;
+  border: 2px solid black;
+  width: 94%;
+  height: 160px;
+  padding: 10px;
+}
